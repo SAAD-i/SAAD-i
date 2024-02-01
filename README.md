@@ -6,7 +6,7 @@
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saad-i&label=Profile%20views&color=0e75b6&style=flat" alt="saad-i" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@muhammadsaad15111402" target="blank"><img src="https://img.shields.io/twitter/follow/@muhammadsaad15111402?logo=twitter&style=for-the-badge" alt="muhammadsaad15111402" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@Muhammadsaad15111402" target="blank"><img src="https://img.shields.io/twitter/follow/@Muhammadsaad15111402?logo=twitter&style=for-the-badge" alt="Muhammadsaad15111402" /></a> </p>
 
 - 🌱 I’m currently learning **Django, Machine Learning**
 
